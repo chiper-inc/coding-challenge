@@ -113,4 +113,4 @@ When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEng
 How will we review?
 -------------------
 
-[Guidelines can be found here](https://github.com/uber/coding-challenge-tools/blob/master/README.md)
+[Guidelines can be found here](https://github.com/chiper-inc/coding-challenge/blob/master/REVIEW.md)
