@@ -87,17 +87,9 @@ your challenge.
 
 Here are some technologies we are more familiar with:
 
-* JavaScript
-* Python
-* Ruby
-* PHP
-* Go
-* Rust
-* Java
-
-You are also free to use any web framework. If you choose to use a framework
-that results in boilerplate code in the repository, please detail in your
-README which code was written by you (as opposed to generated code).
+* NodeJS
+ 
+we recommend using NestJS as framework is a plus
 
 ### Front-end
 
